@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988783955643",
+    "firebase_url": "https://purwokarto-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "purwokarto",
+    "storage_bucket": "purwokarto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988783955643:android:7d90cc24edb9bfced8239e",
+        "android_client_info": {
+          "package_name": "com.Mjuna.PurwokARto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988783955643-uae62mcfee9dktva99dfjem49o9qrbbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0PztlnkeAjSpV7qbRE1ihD5QQ8jnQUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988783955643-uae62mcfee9dktva99dfjem49o9qrbbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

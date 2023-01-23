@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://purwokarto-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">988783955643</string>
+  <string name="google_storage_bucket" translatable="false">purwokarto.appspot.com</string>
+  <string name="project_id" translatable="false">purwokarto</string>
+  <string name="google_api_key" translatable="false">AIzaSyCU0PztlnkeAjSpV7qbRE1ihD5QQ8jnQUg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCU0PztlnkeAjSpV7qbRE1ihD5QQ8jnQUg</string>
+  <string name="google_app_id" translatable="false">1:988783955643:android:7d90cc24edb9bfced8239e</string>
+  <string name="default_web_client_id" translatable="false">988783955643-uae62mcfee9dktva99dfjem49o9qrbbc.apps.googleusercontent.com</string>
+</resources>
